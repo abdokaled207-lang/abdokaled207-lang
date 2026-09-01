@@ -1,10 +1,11 @@
 # 👋 Hello! I'm ABDELRAHMAN
 
-🎓 **Computer Science & AI Student** at UTeM (Universiti Teknikal Malaysia Melaka)
+🎓 **Artificial Intelligence Student** at **FAIX, UTeM** (Universiti Teknikal Malaysia Melaka)
 
 ## 🔭 About Me
-- 💻 Passionate about **C++**, **Databases**, **AI**, and **Data Science**
+- 💻 Passionate about **AI**, **Data Science**, **C++**, and **Databases**
 - 📍 Based in Melaka, Malaysia
+- 🏫 Faculty: **FAIX** | Specialization: **Artificial Intelligence**
 - 🌱 Currently learning and building cool projects
 
 ## 🚀 My Projects
