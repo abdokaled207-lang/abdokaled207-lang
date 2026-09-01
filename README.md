@@ -5,7 +5,7 @@
 ## 🔭 About Me
 - 💻 Passionate about **AI**, **Data Science**, **C++**, and **Databases**
 - 🤖 Experienced with **Large Language Models (LLMs)** and **Local Model Deployment**
-- 🧠 Skilled in working with local AI models (LLaMA, Ollama, etc.) and building agent-based solutions
+- 🧠 Skilled in working with local AI models (LLaMA, Ollama, Anthropic, OpenAI, Z.AI, Opencode, Moltbot, etc.) and building agent-based solutions
 - 📍 Based in Melaka, Malaysia
 - 🏫 Faculty: **FAIX** | Specialization: **Artificial Intelligence**
 - 🌱 Constantly learning and building cool projects
@@ -20,7 +20,7 @@
 
 ## 🛠️ Skills & Interests
 
-- **AI & LLMs:** Prompt engineering, local model deployment (Ollama, LLaMA), AI agents
+- **AI & LLMs:** Prompt engineering, local model deployment (Ollama, LLaMA), AI agents, Anthropic, OpenAI, Z.AI, Opencode, Moltbot
 - **Languages:** C++, Python, SQL
 - **Databases:** MySQL
 - **Data Science:** Data analysis, visualization
