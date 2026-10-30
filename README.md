@@ -5,7 +5,7 @@
 ## 🔭 About Me
 - 💻 Passionate about **AI**, **Data Science**, **C++**, and **Databases**
 - 🤖 Experienced with **Large Language Models (LLMs)** and **Local Model Deployment**
-- 🧠 Skilled in working with local AI models (Anthropic, OpenAI, Z.AI, Opencode, Moltbot, etc.) and building agent-based solutions
+- 🧠 Skilled in working with local AI models (Anthropic, OpenAI, Opencode, Moltbot, etc.) and building agent-based solutions
 - 📍 Based in Melaka, Malaysia
 - 🏫 Faculty: **FAIX** | Specialization: **Artificial Intelligence**
 - 🌱 Constantly learning and building cool projects
